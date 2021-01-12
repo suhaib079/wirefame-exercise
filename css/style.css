@@ -1,0 +1,36 @@
+li {
+    display:inline-block;
+    padding: 5px;
+    margin: 40px;
+    text-align: center;
+    vertical-align:center;
+    background-color: rgba(3, 3, 3, 0.5);
+}
+
+div img {
+    background-position: center;
+  background-repeat: no-repeat;
+  margin: 90px;
+  
+
+}
+main section img {
+     display: block; 
+    background-position: center;
+    background-repeat: no-repeat;
+   margin: 190px;
+   
+    
+}
+
+main div section{
+    height: 480px;
+}
+main div section img{float: left;}
+
+footer {
+    background-color: #4d5153;
+    border-top-width: 200px;
+    border-top-style:solid ;
+    border-top-color: #09223e;
+}
